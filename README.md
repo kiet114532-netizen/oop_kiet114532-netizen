@@ -1,6 +1,4 @@
-oop_NguyenVanKiet_114532/
-   README.md
-   Bai_thuchanh_01/
+bai_thuc_hanh_01/bai_01_quan_ly_xe/main.cpp
        #include <iostream>
 #include <string>
 #include <iomanip>
